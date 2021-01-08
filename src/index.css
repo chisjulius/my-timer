@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.box{
+  background: #efefef;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  min-height: 100vh;
+}
